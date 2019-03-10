@@ -1,0 +1,1 @@
+create a weighted index to valulization the index.
