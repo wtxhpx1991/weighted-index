@@ -80,3 +80,4 @@ class Student1(object):
 s = Student1()
 s.score = 60
 s.score = 9999
+
